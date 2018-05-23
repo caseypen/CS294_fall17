@@ -1,0 +1,1 @@
+python train_pg_continuous.py HalfCheetah-v0 -dc 0.9 -b 1000 -ep 150 -rtg -bl -l 2 -s 128 -bts -iter 200 --exp_name fit_and_adv 
